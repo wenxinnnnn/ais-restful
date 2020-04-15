@@ -1,4 +1,4 @@
-package com.wenxinnnnn.ais.rest;
+package dev.wenxin.ais.rest;
 
 import com.alibaba.fastjson.JSON;
 

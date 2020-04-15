@@ -1,6 +1,6 @@
-package com.wenxinnnnn.ais.rest;
+package dev.wenxin.ais.rest;
 
-import com.wenxinnnnn.ais.impl.AbstractAisBuilder;
+import dev.wenxin.ais.impl.AbstractAisBuilder;
 
 import javax.servlet.http.HttpServletRequest;
 

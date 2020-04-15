@@ -1,7 +1,7 @@
-package com.wenxinnnnn.ais.rest;
+package dev.wenxin.ais.rest;
 
-import com.wenxinnnnn.ais.NonceHandler;
-import com.wenxinnnnn.ais.impl.AbstractAisParser;
+import dev.wenxin.ais.NonceHandler;
+import dev.wenxin.ais.impl.AbstractAisParser;
 
 import javax.servlet.http.HttpServletRequest;
 
